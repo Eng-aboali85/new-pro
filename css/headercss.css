@@ -1,0 +1,28 @@
+.jumbotron {
+    background-image:url("../img-pro/bg4.png");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    color: rgb(5, 1, 22);
+     margin-bottom: 0px;
+}
+
+.margin{
+margin-top: 80;
+
+}
+.fontcolor{
+    color: #cc0606;
+
+}
+
+#service{
+    background: #d9d9df;
+}
+.mypadding{
+    padding-top: 40px;
+
+}
+.bgcolor{
+    background-color: #e9f087;
+    
+}
